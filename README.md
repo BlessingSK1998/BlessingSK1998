@@ -1,3 +1,5 @@
+<p align="center"><img src="./assets/profile-banner.svg" alt="Blessing Sekeramavi — Data Science, AI & Automation, Business Solutions and Research" width="100%"></p>
+
 # Hi, I'm Blessing Sekeramavi 👋
 
 ### Data Science · AI & Automation · Business Solutions · Research
