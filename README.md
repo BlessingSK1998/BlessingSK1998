@@ -8,6 +8,16 @@ I'm a data science graduate and international outreach project coordinator based
 
 My interests span **applied machine learning, business intelligence, workflow automation, education, climate and marine data, and social impact**. I bring together a background in **law and business** with a master's degree in **Data Science for Society & Business**.
 
+## Featured project: UniversityScope
+
+[![UniversityScope world coverage map](https://raw.githubusercontent.com/BlessingSK1998/UniversityScope/main/assets/world-coverage.svg)](https://github.com/BlessingSK1998/UniversityScope)
+
+**University performance analytics built around 3,146 institution records across 131 countries and territories.** Includes six reproducible visual reports, interactive country maps, institution comparisons and exploratory K-Means clustering.
+
+Built with **Python, pandas, scikit-learn, Matplotlib, D3 and Globe.gl**, connecting my data science training with my experience in international university outreach.
+
+[**Explore the project and visual reports**](https://github.com/BlessingSK1998/UniversityScope) · [**Open the interactive notebook in Colab**](https://colab.research.google.com/github/BlessingSK1998/UniversityScope/blob/main/UniversityScope.ipynb)
+
 ## What I work on
 
 - **Data science & machine learning:** predictive modeling, evaluation, visualization and responsible decision support.
