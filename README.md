@@ -16,7 +16,7 @@ My interests span **applied machine learning, business intelligence, workflow au
 
 Built with **Python, pandas, scikit-learn, Matplotlib, D3 and Globe.gl**, connecting my data science training with my experience in international university outreach.
 
-[**Explore the project and visual reports**](https://github.com/BlessingSK1998/UniversityScope) · [**Open the interactive notebook in Colab**](https://colab.research.google.com/github/BlessingSK1998/UniversityScope/blob/main/UniversityScope.ipynb)
+[**Try the live software demo**](https://universityscope-blessing.pearlypanda9.chatgpt.site) · [**Explore the project and visual reports**](https://github.com/BlessingSK1998/UniversityScope) · [**Open the interactive notebook in Colab**](https://colab.research.google.com/github/BlessingSK1998/UniversityScope/blob/main/UniversityScope.ipynb)
 
 ## What I work on
 
