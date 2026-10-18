@@ -10,17 +10,15 @@ My interests span **applied machine learning, business intelligence, workflow au
 
 ## Featured projects
 
-### ApexLab — Hamilton vs Norris, Barcelona 2026
+### UniversityScope
 
-[![ApexLab — Lewis Hamilton vs Lando Norris, Barcelona 2026](https://raw.githubusercontent.com/BlessingSK1998/ApexLab/main/assets/hamilton-vs-norris-2026.png)](https://apexlab-hamilton-barcelona.pearlypanda9.chatgpt.site)
+[![UniversityScope world coverage map](https://raw.githubusercontent.com/BlessingSK1998/UniversityScope/main/assets/world-coverage.svg)](https://github.com/BlessingSK1998/UniversityScope)
 
-**An interactive look inside Hamilton’s Barcelona victory: 1,241 recorded laps, 22 drivers and a 66-lap race.** Replay the running order, compare Hamilton, Russell and Norris, inspect tyre stints and pit stops, then explore an illustrative strategy simulator.
+**University performance analytics built around 3,146 institution records across 131 countries and territories.** Includes six reproducible visual reports, interactive country maps, institution comparisons and exploratory K-Means clustering.
 
-Built with **Python, pandas, NumPy, JavaScript and Plotly**, using recorded OpenF1 data, explicit data-quality checks and reproducible analysis. Simulated outcomes are clearly separated from race observations.
+Built with **Python, pandas, scikit-learn, Matplotlib, D3 and Globe.gl**, connecting my data science training with my experience in international university outreach.
 
-[**Open the live race lab**](https://apexlab-hamilton-barcelona.pearlypanda9.chatgpt.site) · [**Explore the full project**](https://github.com/BlessingSK1998/ApexLab)
-
-*Cover: AI-generated editorial illustration, not an authentic race photograph.*
+[**Try the live software demo**](https://universityscope-blessing.pearlypanda9.chatgpt.site) · [**Explore the project and visual reports**](https://github.com/BlessingSK1998/UniversityScope) · [**Open the interactive notebook in Colab**](https://colab.research.google.com/github/BlessingSK1998/UniversityScope/blob/main/UniversityScope.ipynb)
 
 ---
 
@@ -36,15 +34,17 @@ Built with **Python, pandas, NumPy, Plotly, Gradio and JavaScript**, with a publ
 
 ---
 
-### UniversityScope
+### ApexLab — Hamilton vs Norris, Barcelona 2026
 
-[![UniversityScope world coverage map](https://raw.githubusercontent.com/BlessingSK1998/UniversityScope/main/assets/world-coverage.svg)](https://github.com/BlessingSK1998/UniversityScope)
+[![ApexLab — Lewis Hamilton vs Lando Norris, Barcelona 2026](https://raw.githubusercontent.com/BlessingSK1998/ApexLab/main/assets/hamilton-vs-norris-2026.png)](https://apexlab-hamilton-barcelona.pearlypanda9.chatgpt.site)
 
-**University performance analytics built around 3,146 institution records across 131 countries and territories.** Includes six reproducible visual reports, interactive country maps, institution comparisons and exploratory K-Means clustering.
+**An interactive look inside Hamilton’s Barcelona victory: 1,241 recorded laps, 22 drivers and a 66-lap race.** Replay the running order, compare Hamilton, Russell and Norris, inspect tyre stints and pit stops, then explore an illustrative strategy simulator.
 
-Built with **Python, pandas, scikit-learn, Matplotlib, D3 and Globe.gl**, connecting my data science training with my experience in international university outreach.
+Built with **Python, pandas, NumPy, JavaScript and Plotly**, using recorded OpenF1 data, explicit data-quality checks and reproducible analysis. Simulated outcomes are clearly separated from race observations.
 
-[**Try the live software demo**](https://universityscope-blessing.pearlypanda9.chatgpt.site) · [**Explore the project and visual reports**](https://github.com/BlessingSK1998/UniversityScope) · [**Open the interactive notebook in Colab**](https://colab.research.google.com/github/BlessingSK1998/UniversityScope/blob/main/UniversityScope.ipynb)
+[**Open the live race lab**](https://apexlab-hamilton-barcelona.pearlypanda9.chatgpt.site) · [**Explore the full project**](https://github.com/BlessingSK1998/ApexLab)
+
+*Cover: AI-generated editorial illustration, not an authentic race photograph.*
 
 ## What I work on
 
