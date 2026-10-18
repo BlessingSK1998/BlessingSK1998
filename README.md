@@ -58,7 +58,13 @@ Built with **Python, pandas, NumPy, JavaScript and Plotly**, using recorded Open
 
 ### DataCheck — Data Quality Inspector
 
-[![DataCheck app — Data Quality Inspector](https://raw.githubusercontent.com/BlessingSK1998/DataCheck/main/assets/datacheck-cover.png)](https://wruj3msd9wtshpkozw4lvd.streamlit.app/)
+<p align="center">
+  <a href="https://wruj3msd9wtshpkozw4lvd.streamlit.app/">
+    <img src="./assets/datacheck-cover-full.png" alt="DataCheck app — Data Quality Inspector" width="100%">
+  </a>
+</p>
+
+[View the full-resolution cover](./assets/datacheck-cover-full.png)
 
 **A public Streamlit app that turns CSV uploads into clear, actionable data-quality reports.** Inspect missing values, duplicates, whitespace, category inconsistencies and potential outliers, validate student data against a predefined schema, and preview optional cleaning before downloading results.
 
