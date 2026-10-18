@@ -10,6 +10,20 @@ My interests span **applied machine learning, business intelligence, workflow au
 
 ## Featured projects
 
+### ApexLab — Hamilton vs Norris, Barcelona 2026
+
+[![ApexLab — Lewis Hamilton vs Lando Norris, Barcelona 2026](https://raw.githubusercontent.com/BlessingSK1998/ApexLab/main/assets/hamilton-vs-norris-2026.png)](https://apexlab-hamilton-barcelona.pearlypanda9.chatgpt.site)
+
+**An interactive look inside Hamilton’s Barcelona victory: 1,241 recorded laps, 22 drivers and a 66-lap race.** Replay the running order, compare Hamilton, Russell and Norris, inspect tyre stints and pit stops, then explore an illustrative strategy simulator.
+
+Built with **Python, pandas, NumPy, JavaScript and Plotly**, using recorded OpenF1 data, explicit data-quality checks and reproducible analysis. Simulated outcomes are clearly separated from race observations.
+
+[**Open the live race lab**](https://apexlab-hamilton-barcelona.pearlypanda9.chatgpt.site) · [**Explore the full project**](https://github.com/BlessingSK1998/ApexLab)
+
+*Cover: AI-generated editorial illustration, not an authentic race photograph.*
+
+---
+
 ### EDU / FUTURE — Education & Employment Observatory
 
 [![EDU FUTURE education and employment observatory preview](./assets/edu-future-preview.svg)](https://edu-future-blessing-observatory.pearlypanda9.chatgpt.site)
@@ -44,6 +58,7 @@ Built with **Python, pandas, scikit-learn, Matplotlib, D3 and Globe.gl**, connec
 
 | Project | Focus | Repository |
 | --- | --- | --- |
+| ApexLab | F1 race replay, tyre strategy, pace analysis and illustrative simulation | [View project](https://github.com/BlessingSK1998/ApexLab) |
 | EDU / FUTURE | Education investment, youth employment, country comparisons and data quality | [View project](https://github.com/BlessingSK1998/Edu-future-observatory.) |
 | Student Dropout & Academic Success | Predictive modeling, uncertainty, fairness and education decision support | [View project](https://github.com/BlessingSK1998/Predict-Students-Dropout-and-Academic-Success) |
 | Cancer Variant Machine Learning | Comparing ML models and examining the limits of predictive signal | [View project](https://github.com/BlessingSK1998/Cancer-Variant-Dataset-for-Machine-Learning) |
