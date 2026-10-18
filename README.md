@@ -15,7 +15,7 @@ My interests span **applied machine learning, business intelligence, workflow au
 | DataCheck | [Open app](https://wruj3msd9wtshpkozw4lvd.streamlit.app/) |
 | StudentLens | [Open app](https://blessing-studentlens.streamlit.app/) |
 | ApexLab | [Open app](https://appapppy-qrqmlbp7gpmxpbkrs5sm4w.streamlit.app/) |
-| Edu-future-observatory. | [Open app](https://blessing-edu-future.streamlit.app/) |
+| EDU / FUTURE | [Open app](https://blessing-edu-future.streamlit.app/) |
 | UniversityScope | [Open app](https://blessing-universityscope.streamlit.app/) |
 
 UniversityScope includes published reports; upload a THE rankings CSV for the interactive institution explorer.
@@ -30,7 +30,7 @@ UniversityScope includes published reports; upload a THE rankings CSV for the in
 
 Built with **Python, pandas, scikit-learn, Matplotlib, D3 and Globe.gl**, connecting my data science training with my experience in international university outreach.
 
-[**Try the live software demo**](https://universityscope-blessing.pearlypanda9.chatgpt.site) · [**Explore the project and visual reports**](https://github.com/BlessingSK1998/UniversityScope) · [**Open the interactive notebook in Colab**](https://colab.research.google.com/github/BlessingSK1998/UniversityScope/blob/main/UniversityScope.ipynb)
+[**Open UniversityScope on Streamlit**](https://blessing-universityscope.streamlit.app/) · [**Try the live software demo**](https://universityscope-blessing.pearlypanda9.chatgpt.site) · [**Explore the project and visual reports**](https://github.com/BlessingSK1998/UniversityScope) · [**Open the interactive notebook in Colab**](https://colab.research.google.com/github/BlessingSK1998/UniversityScope/blob/main/UniversityScope.ipynb)
 
 ---
 
@@ -42,7 +42,7 @@ Built with **Python, pandas, scikit-learn, Matplotlib, D3 and Globe.gl**, connec
 
 Built with **Python, pandas, NumPy, Plotly, Gradio and JavaScript**, with a public browser dashboard, reproducible Colab notebook, CSV exports, data-quality checks and transparent source documentation.
 
-[**Try the live dashboard**](https://edu-future-blessing-observatory.pearlypanda9.chatgpt.site) · [**Explore the full project**](https://github.com/BlessingSK1998/Edu-future-observatory.) · [**Open the notebook in Colab**](https://colab.research.google.com/github/BlessingSK1998/Edu-future-observatory./blob/main/global-education-employment.ipynb)
+[**Open EDU / FUTURE on Streamlit**](https://blessing-edu-future.streamlit.app/) · [**Try the live dashboard**](https://edu-future-blessing-observatory.pearlypanda9.chatgpt.site) · [**Explore the full project**](https://github.com/BlessingSK1998/Edu-future-observatory.) · [**Open the notebook in Colab**](https://colab.research.google.com/github/BlessingSK1998/Edu-future-observatory./blob/main/global-education-employment.ipynb)
 
 ---
 
@@ -54,7 +54,7 @@ Built with **Python, pandas, NumPy, Plotly, Gradio and JavaScript**, with a publ
 
 Built with **Python, pandas, NumPy, JavaScript and Plotly**, using recorded OpenF1 data, explicit data-quality checks and reproducible analysis. Simulated outcomes are clearly separated from race observations.
 
-[**Open the live race lab**](https://apexlab-hamilton-barcelona.pearlypanda9.chatgpt.site) · [**Explore the full project**](https://github.com/BlessingSK1998/ApexLab)
+[**Open ApexLab on Streamlit**](https://appapppy-qrqmlbp7gpmxpbkrs5sm4w.streamlit.app/) · [**Open the live race lab**](https://apexlab-hamilton-barcelona.pearlypanda9.chatgpt.site) · [**Explore the full project**](https://github.com/BlessingSK1998/ApexLab)
 
 *Cover: AI-generated editorial illustration, not an authentic race photograph.*
 
@@ -86,11 +86,13 @@ Built with **Python, pandas, NumPy and Streamlit**, with nine automated tests, d
 
 *Cover: AI-generated product illustration, not an exact application screenshot.*
 
-| Project | Focus | Repository |
+| Project | Focus | Code & live app |
 | --- | --- | --- |
 | DataCheck app | CSV quality checks, student schema validation and transparent cleaning | [View project](https://github.com/BlessingSK1998/DataCheck) · [Live app](https://wruj3msd9wtshpkozw4lvd.streamlit.app/) |
-| ApexLab | F1 race replay, tyre strategy, pace analysis and illustrative simulation | [View project](https://github.com/BlessingSK1998/ApexLab) |
-| EDU / FUTURE | Education investment, youth employment, country comparisons and data quality | [View project](https://github.com/BlessingSK1998/Edu-future-observatory.) |
+| StudentLens | Student achievement, six research questions and predictive modelling | [View project](https://github.com/BlessingSK1998/StudentLens) · [Live app](https://blessing-studentlens.streamlit.app/) |
+| UniversityScope | University rankings, geographic coverage and institution comparisons | [View project](https://github.com/BlessingSK1998/UniversityScope) · [Live app](https://blessing-universityscope.streamlit.app/) |
+| ApexLab | F1 race replay, tyre strategy, pace analysis and illustrative simulation | [View project](https://github.com/BlessingSK1998/ApexLab) · [Live app](https://appapppy-qrqmlbp7gpmxpbkrs5sm4w.streamlit.app/) |
+| EDU / FUTURE | Education investment, youth employment, country comparisons and data quality | [View project](https://github.com/BlessingSK1998/Edu-future-observatory.) · [Live app](https://blessing-edu-future.streamlit.app/) |
 | Student Dropout & Academic Success | Predictive modeling, uncertainty, fairness and education decision support | [View project](https://github.com/BlessingSK1998/Predict-Students-Dropout-and-Academic-Success) |
 | Cancer Variant Machine Learning | Comparing ML models and examining the limits of predictive signal | [View project](https://github.com/BlessingSK1998/Cancer-Variant-Dataset-for-Machine-Learning) |
 | OceanScope AI Observatory | Marine and climate data exploration *(in development)* | [View repository](https://github.com/BlessingSK1998/OceanScope-AI-Observatory) |
