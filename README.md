@@ -12,11 +12,15 @@ My interests span **applied machine learning, business intelligence, workflow au
 
 ### EDU / FUTURE — Education & Employment Observatory
 
+[![EDU FUTURE education and employment observatory preview](./assets/edu-future-preview.svg)](https://edu-future-blessing-observatory.pearlypanda9.chatgpt.site)
+
 **Interactive World Bank analytics across 10 countries, 140 country-year records and four indicators (2010–2023).** Explore education spending, tertiary enrolment, youth unemployment and GDP per capita through a world map, country comparisons, historical trends and country profiles.
 
 Built with **Python, pandas, NumPy, Plotly, Gradio and JavaScript**, with a public browser dashboard, reproducible Colab notebook, CSV exports, data-quality checks and transparent source documentation.
 
 [**Try the live dashboard**](https://edu-future-blessing-observatory.pearlypanda9.chatgpt.site) · [**Explore the full project**](https://github.com/BlessingSK1998/Edu-future-observatory.) · [**Open the notebook in Colab**](https://colab.research.google.com/github/BlessingSK1998/Edu-future-observatory./blob/main/global-education-employment.ipynb)
+
+---
 
 ### UniversityScope
 
