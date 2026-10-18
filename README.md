@@ -12,6 +12,7 @@ My interests span **applied machine learning, business intelligence, workflow au
 
 | App | Hosted demo |
 | --- | --- |
+| ModelMatch | [Open app](https://blessing-modelmatch.streamlit.app/) |
 | DataCheck | [Open app](https://wruj3msd9wtshpkozw4lvd.streamlit.app/) |
 | StudentLens | [Open app](https://blessing-studentlens.streamlit.app/) |
 | ApexLab | [Open app](https://appapppy-qrqmlbp7gpmxpbkrs5sm4w.streamlit.app/) |
@@ -68,6 +69,24 @@ Built with **Python, pandas, NumPy, JavaScript and Plotly**, using recorded Open
 
 ## Selected projects
 
+### ModelMatch — Data, Models & Predictions
+
+<p align="center">
+  <a href="https://blessing-modelmatch.streamlit.app/">
+    <img src="./assets/modelmatch-cover.jpg" alt="ModelMatch — realistic analytics workstation with illustrative model comparison, exploration and forecasting dashboards" width="100%">
+  </a>
+</p>
+
+**An end-to-end data science app that turns CSV and Excel datasets into analysis, interactive dashboards, model comparisons and predictions.** Explore data quality, choose regression, classification, clustering, anomaly detection or forecasting, then train models and inspect their results.
+
+Built with **Python, Streamlit, pandas, NumPy, Plotly and scikit-learn**, with leakage-safe preprocessing, baseline comparisons, held-out evaluation, single and batch predictions, reproducible Python/notebook exports and 12 automated tests.
+
+[**Use ModelMatch on Streamlit**](https://blessing-modelmatch.streamlit.app/) · [**Explore the code**](https://github.com/BlessingSK1998/ModelMatch) · [**View the full-resolution cover**](./assets/modelmatch-cover.jpg)
+
+*Cover: AI-generated product illustration; interface charts and intervals are illustrative, not actual application output or supported uncertainty estimates.*
+
+---
+
 ### DataCheck — Data Quality Inspector
 
 <p align="center">
@@ -88,6 +107,7 @@ Built with **Python, pandas, NumPy and Streamlit**, with nine automated tests, d
 
 | Project | Focus | Code & live app |
 | --- | --- | --- |
+| ModelMatch | Data analysis, dashboards, ML model comparison, predictions and forecasting | [View project](https://github.com/BlessingSK1998/ModelMatch) · [Live app](https://blessing-modelmatch.streamlit.app/) |
 | DataCheck app | CSV quality checks, student schema validation and transparent cleaning | [View project](https://github.com/BlessingSK1998/DataCheck) · [Live app](https://wruj3msd9wtshpkozw4lvd.streamlit.app/) |
 | StudentLens | Student achievement, six research questions and predictive modelling | [View project](https://github.com/BlessingSK1998/StudentLens) · [Live app](https://blessing-studentlens.streamlit.app/) |
 | UniversityScope | University rankings, geographic coverage and institution comparisons | [View project](https://github.com/BlessingSK1998/UniversityScope) · [Live app](https://blessing-universityscope.streamlit.app/) |
