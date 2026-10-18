@@ -8,7 +8,17 @@ I'm a data science graduate and international outreach project coordinator based
 
 My interests span **applied machine learning, business intelligence, workflow automation, education, climate and marine data, and social impact**. I bring together a background in **law and business** with a master's degree in **Data Science for Society & Business**.
 
-## Featured project: UniversityScope
+## Featured projects
+
+### EDU / FUTURE — Education & Employment Observatory
+
+**Interactive World Bank analytics across 10 countries, 140 country-year records and four indicators (2010–2023).** Explore education spending, tertiary enrolment, youth unemployment and GDP per capita through a world map, country comparisons, historical trends and country profiles.
+
+Built with **Python, pandas, NumPy, Plotly, Gradio and JavaScript**, with a public browser dashboard, reproducible Colab notebook, CSV exports, data-quality checks and transparent source documentation.
+
+[**Try the live dashboard**](https://edu-future-blessing-observatory.pearlypanda9.chatgpt.site) · [**Explore the full project**](https://github.com/BlessingSK1998/Edu-future-observatory.) · [**Open the notebook in Colab**](https://colab.research.google.com/github/BlessingSK1998/Edu-future-observatory./blob/main/global-education-employment.ipynb)
+
+### UniversityScope
 
 [![UniversityScope world coverage map](https://raw.githubusercontent.com/BlessingSK1998/UniversityScope/main/assets/world-coverage.svg)](https://github.com/BlessingSK1998/UniversityScope)
 
@@ -30,6 +40,7 @@ Built with **Python, pandas, scikit-learn, Matplotlib, D3 and Globe.gl**, connec
 
 | Project | Focus | Repository |
 | --- | --- | --- |
+| EDU / FUTURE | Education investment, youth employment, country comparisons and data quality | [View project](https://github.com/BlessingSK1998/Edu-future-observatory.) |
 | Student Dropout & Academic Success | Predictive modeling, uncertainty, fairness and education decision support | [View project](https://github.com/BlessingSK1998/Predict-Students-Dropout-and-Academic-Success) |
 | Cancer Variant Machine Learning | Comparing ML models and examining the limits of predictive signal | [View project](https://github.com/BlessingSK1998/Cancer-Variant-Dataset-for-Machine-Learning) |
 | OceanScope AI Observatory | Marine and climate data exploration *(in development)* | [View repository](https://github.com/BlessingSK1998/OceanScope-AI-Observatory) |
