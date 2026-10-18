@@ -8,6 +8,18 @@ I'm a data science graduate and international outreach project coordinator based
 
 My interests span **applied machine learning, business intelligence, workflow automation, education, climate and marine data, and social impact**. I bring together a background in **law and business** with a master's degree in **Data Science for Society & Business**.
 
+## Live Streamlit apps
+
+| App | Hosted demo |
+| --- | --- |
+| DataCheck | [Open app](https://wruj3msd9wtshpkozw4lvd.streamlit.app/) |
+| StudentLens | [Open app](https://blessing-studentlens.streamlit.app/) |
+| ApexLab | [Open app](https://appapppy-qrqmlbp7gpmxpbkrs5sm4w.streamlit.app/) |
+| Edu-future-observatory. | [Open app](https://blessing-edu-future.streamlit.app/) |
+| UniversityScope | [Open app](https://blessing-universityscope.streamlit.app/) |
+
+UniversityScope includes published reports; upload a THE rankings CSV for the interactive institution explorer.
+
 ## Featured projects
 
 ### UniversityScope
