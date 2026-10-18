@@ -60,11 +60,11 @@ Built with **Python, pandas, NumPy, JavaScript and Plotly**, using recorded Open
 
 <p align="center">
   <a href="https://wruj3msd9wtshpkozw4lvd.streamlit.app/">
-    <img src="./assets/datacheck-cover-full.png" alt="DataCheck app — Data Quality Inspector" width="100%">
+    <img src="./assets/datacheck-cover-v2.jpg" alt="DataCheck app — Data Quality Inspector" width="100%">
   </a>
 </p>
 
-[View the full-resolution cover](./assets/datacheck-cover-full.png)
+[View the full-resolution cover](./assets/datacheck-cover-v2.jpg)
 
 **A public Streamlit app that turns CSV uploads into clear, actionable data-quality reports.** Inspect missing values, duplicates, whitespace, category inconsistencies and potential outliers, validate student data against a predefined schema, and preview optional cleaning before downloading results.
 
