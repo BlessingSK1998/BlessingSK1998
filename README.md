@@ -56,8 +56,21 @@ Built with **Python, pandas, NumPy, JavaScript and Plotly**, using recorded Open
 
 ## Selected projects
 
+### DataCheck — Data Quality Inspector
+
+[![DataCheck app — Data Quality Inspector](https://raw.githubusercontent.com/BlessingSK1998/DataCheck/main/assets/datacheck-cover.png)](https://wruj3msd9wtshpkozw4lvd.streamlit.app/)
+
+**A public Streamlit app that turns CSV uploads into clear, actionable data-quality reports.** Inspect missing values, duplicates, whitespace, category inconsistencies and potential outliers, validate student data against a predefined schema, and preview optional cleaning before downloading results.
+
+Built with **Python, pandas, NumPy and Streamlit**, with nine automated tests, downloadable JSON reports and transparent cleaning logs.
+
+[**Use the DataCheck app**](https://wruj3msd9wtshpkozw4lvd.streamlit.app/) · [**Explore the code**](https://github.com/BlessingSK1998/DataCheck)
+
+*Cover: AI-generated product illustration, not an exact application screenshot.*
+
 | Project | Focus | Repository |
 | --- | --- | --- |
+| DataCheck app | CSV quality checks, student schema validation and transparent cleaning | [View project](https://github.com/BlessingSK1998/DataCheck) · [Live app](https://wruj3msd9wtshpkozw4lvd.streamlit.app/) |
 | ApexLab | F1 race replay, tyre strategy, pace analysis and illustrative simulation | [View project](https://github.com/BlessingSK1998/ApexLab) |
 | EDU / FUTURE | Education investment, youth employment, country comparisons and data quality | [View project](https://github.com/BlessingSK1998/Edu-future-observatory.) |
 | Student Dropout & Academic Success | Predictive modeling, uncertainty, fairness and education decision support | [View project](https://github.com/BlessingSK1998/Predict-Students-Dropout-and-Academic-Success) |
