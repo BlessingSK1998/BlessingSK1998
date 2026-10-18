@@ -12,6 +12,7 @@ My interests span **applied machine learning, business intelligence, workflow au
 
 | App | Hosted demo |
 | --- | --- |
+| ResilienceAfrica | [Open report](https://sn8qwviwero3futjtggbwg.streamlit.app/) |
 | ModelMatch | [Open app](https://blessing-modelmatch.streamlit.app/) |
 | DataCheck | [Open app](https://wruj3msd9wtshpkozw4lvd.streamlit.app/) |
 | StudentLens | [Open app](https://blessing-studentlens.streamlit.app/) |
@@ -69,6 +70,24 @@ Built with **Python, pandas, NumPy, JavaScript and Plotly**, using recorded Open
 
 ## Selected projects
 
+### ResilienceAfrica — Population Health & Development
+
+<p align="center">
+  <a href="https://sn8qwviwero3futjtggbwg.streamlit.app/">
+    <img src="https://raw.githubusercontent.com/BlessingSK1998/ResilienceAfrica/main/assets/resilienceafrica-cover.png" alt="ResilienceAfrica — health shocks, economic resilience and HIV/AIDS research in Sub-Saharan Africa" width="100%">
+  </a>
+</p>
+
+**An interactive research report exploring HIV/AIDS, treatment access and socioeconomic development across 48 Sub-Saharan African countries, with 21 indicators and 21,302 observations from 1990–2023.** Read the full research report, explore country trends and an Africa map, compare indicators, inspect regression results and download the recovered data.
+
+Built with **Python, Streamlit, pandas, Plotly and statsmodels**, with the original Power BI report, interactive recreations of its analytical views, reproducible analysis and my completed master's thesis.
+
+[**Open the live report**](https://sn8qwviwero3futjtggbwg.streamlit.app/) · [**Explore the project**](https://github.com/BlessingSK1998/ResilienceAfrica) · [**Read my thesis (PDF)**](https://github.com/BlessingSK1998/ResilienceAfrica/blob/main/reports/Blessing_Sekeramavi_Thesis.pdf)
+
+*Cover: AI-generated conceptual illustration. Recomputed estimates are distinguished from the original thesis findings.*
+
+---
+
 ### ModelMatch — Data, Models & Predictions
 
 <p align="center">
@@ -107,6 +126,7 @@ Built with **Python, pandas, NumPy and Streamlit**, with nine automated tests, d
 
 | Project | Focus | Code & live app |
 | --- | --- | --- |
+| ResilienceAfrica | HIV/AIDS, population health, economic development and thesis research | [View project](https://github.com/BlessingSK1998/ResilienceAfrica) · [Live report](https://sn8qwviwero3futjtggbwg.streamlit.app/) |
 | ModelMatch | Data analysis, dashboards, ML model comparison, predictions and forecasting | [View project](https://github.com/BlessingSK1998/ModelMatch) · [Live app](https://blessing-modelmatch.streamlit.app/) |
 | DataCheck app | CSV quality checks, student schema validation and transparent cleaning | [View project](https://github.com/BlessingSK1998/DataCheck) · [Live app](https://wruj3msd9wtshpkozw4lvd.streamlit.app/) |
 | StudentLens | Student achievement, six research questions and predictive modelling | [View project](https://github.com/BlessingSK1998/StudentLens) · [Live app](https://blessing-studentlens.streamlit.app/) |
