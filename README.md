@@ -12,6 +12,7 @@ My interests span **applied machine learning, business intelligence, workflow au
 
 | App | Hosted demo |
 | --- | --- |
+| EduAccess | [Open app](https://blessing-eduaccess.streamlit.app/) |
 | ResilienceAfrica | [Open report](https://sn8qwviwero3futjtggbwg.streamlit.app/) |
 | ModelMatch | [Open app](https://blessing-modelmatch.streamlit.app/) |
 | DataCheck | [Open app](https://wruj3msd9wtshpkozw4lvd.streamlit.app/) |
@@ -70,6 +71,24 @@ Built with **Python, pandas, NumPy, JavaScript and Plotly**, using recorded Open
 
 ## Selected projects
 
+### EduAccess — Digital Education Access & Readiness
+
+<p align="center">
+  <a href="https://blessing-eduaccess.streamlit.app/">
+    <img src="./assets/eduaccess-cover.png" alt="EduAccess — Digital Education Access and Readiness" width="100%">
+  </a>
+</p>
+
+**A reproducible education analytics project comparing tertiary participation, gender gaps, internet access, broadband affordability and European digital skills across 10 countries.** Explore a nine-page Streamlit app with official publisher data, transparent screening rules and an optional experimental infrastructure index.
+
+Built with **Python, Streamlit, pandas, NumPy, Plotly and SciPy**, with live-source connectors, a dated offline snapshot, 35 automated tests, an analytical report and an editable client briefing.
+
+[**Open EduAccess on Streamlit**](https://blessing-eduaccess.streamlit.app/) · [**View the full-resolution cover**](./assets/eduaccess-cover.png)
+
+*The report and PowerPoint briefing are available under Research downloads inside the app. Cover: AI-generated editorial illustration.*
+
+---
+
 ### ResilienceAfrica — Population Health & Development
 
 <p align="center">
@@ -126,6 +145,7 @@ Built with **Python, pandas, NumPy and Streamlit**, with nine automated tests, d
 
 | Project | Focus | Code & live app |
 | --- | --- | --- |
+| EduAccess | Digital education access, participation, gender gaps and transparent international comparisons | [Live app](https://blessing-eduaccess.streamlit.app/) |
 | ResilienceAfrica | HIV/AIDS, population health, economic development and thesis research | [View project](https://github.com/BlessingSK1998/ResilienceAfrica) · [Live report](https://sn8qwviwero3futjtggbwg.streamlit.app/) |
 | ModelMatch | Data analysis, dashboards, ML model comparison, predictions and forecasting | [View project](https://github.com/BlessingSK1998/ModelMatch) · [Live app](https://blessing-modelmatch.streamlit.app/) |
 | DataCheck app | CSV quality checks, student schema validation and transparent cleaning | [View project](https://github.com/BlessingSK1998/DataCheck) · [Live app](https://wruj3msd9wtshpkozw4lvd.streamlit.app/) |
