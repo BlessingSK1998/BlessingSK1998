@@ -71,6 +71,20 @@ Built with **Python, pandas, NumPy, JavaScript and Plotly**, using recorded Open
 
 ## Selected projects
 
+### CiteOrchard — Where evidence takes root.
+
+[![CiteOrchard](https://citeorchard.com/citeorchard-logo.svg)](https://citeorchard.com/)
+
+**A live research workspace for discovering scholarly papers, finding exact source passages and copying excerpts with citations.** Organise a library, read uploaded PDFs, compare evidence and follow citation connections. Try five discovery searches without signing up, then create a free account to continue.
+
+Built with **Next.js, React, FastAPI and PostgreSQL/pgvector**, with source-linked evidence, APA references, private PDF storage and a separate contact mailbox. Online abstract search is available when saved papers have no matching passage; page locations require available PDF text.
+
+[**Visit CiteOrchard**](https://citeorchard.com/) · [**Meet the founder**](https://citeorchard.com/our-story) · [**Email CiteOrchard**](mailto:hello@citeorchard.com)
+
+*Public beta; the source repository is private. Source excerpts require review in context before use.*
+
+---
+
 ### EduAccess — Digital Education Access & Readiness
 
 <p align="center">
@@ -145,6 +159,7 @@ Built with **Python, pandas, NumPy and Streamlit**, with nine automated tests, d
 
 | Project | Focus | Code & live app |
 | --- | --- | --- |
+| CiteOrchard | Scholarly discovery, source passages, copyable citations and evidence organisation | [Live website](https://citeorchard.com/) · [Founder](https://citeorchard.com/our-story) |
 | EduAccess | Digital education access, participation, gender gaps and transparent international comparisons | [Live app](https://blessing-eduaccess.streamlit.app/) |
 | ResilienceAfrica | HIV/AIDS, population health, economic development and thesis research | [View project](https://github.com/BlessingSK1998/ResilienceAfrica) · [Live report](https://sn8qwviwero3futjtggbwg.streamlit.app/) |
 | ModelMatch | Data analysis, dashboards, ML model comparison, predictions and forecasting | [View project](https://github.com/BlessingSK1998/ModelMatch) · [Live app](https://blessing-modelmatch.streamlit.app/) |
@@ -177,6 +192,8 @@ Currently exploring **AI agents, n8n automation and end-to-end applied analytics
 I'm interested in opportunities and collaborations involving **data science, applied AI, research, business analysis, project coordination and automation**.
 
 📍 Bremen, Germany  
+🌐 [CiteOrchard — research workspace](https://citeorchard.com/)  
+✉️ [hello@citeorchard.com](mailto:hello@citeorchard.com)  
 🔗 [Explore my repositories](https://github.com/BlessingSK1998)
 
 ---
