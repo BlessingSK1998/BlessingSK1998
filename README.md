@@ -73,7 +73,7 @@ Built with **Python, pandas, NumPy, JavaScript and Plotly**, using recorded Open
 
 ### CiteOrchard — Where evidence takes root.
 
-[![CiteOrchard](https://citeorchard.com/citeorchard-logo.svg)](https://citeorchard.com/)
+<p align="center"><a href="https://citeorchard.com/"><img src="./assets/citeorchard-logo.svg" alt="CiteOrchard — Where evidence takes root." width="690"></a></p>
 
 **A live research workspace for discovering scholarly papers, finding exact source passages and copying excerpts with citations.** Organise a library, read uploaded PDFs, compare evidence and follow citation connections. Try five discovery searches without signing up, then create a free account to continue.
 
