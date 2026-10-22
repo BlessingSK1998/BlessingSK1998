@@ -71,6 +71,24 @@ Built with **Python, pandas, NumPy, JavaScript and Plotly**, using recorded Open
 
 ## Selected projects
 
+### Football Vision AI — Player Tracking & Tactical Analytics
+
+<p align="center">
+  <a href="https://github.com/BlessingSK1998/Football-Vision">
+    <img src="./assets/football-vision-cover.png" alt="Football Vision AI — illustrative football player tracking and tactical pitch mapping" width="100%">
+  </a>
+</p>
+
+**An experimental computer vision notebook exploring football player detection, tracking, jersey-colour team clustering and pitch movement visualisations.** Includes annotated video, player trajectories, heatmaps and coordinate exports, with experiments in camera-motion compensation and speed estimation.
+
+Built with **Python, Ultralytics YOLOv8, OpenCV, pandas, NumPy, scikit-learn, Matplotlib and Seaborn** in Google Colab. Pitch calibration and camera movement affect coordinate and speed estimates; these are exploratory outputs rather than validated performance measurements.
+
+[**Explore the project**](https://github.com/BlessingSK1998/Football-Vision) · [**Open the notebook in Colab**](https://colab.research.google.com/drive/1Zjn79VrBlXo0kFFoqnFpaprqot6oNJmV) · [**View the full-resolution cover**](./assets/football-vision-cover.png)
+
+*Cover: AI-generated project illustration, not an actual match photograph or notebook output.*
+
+---
+
 ### CiteOrchard — Where evidence takes root.
 
 <p align="center"><a href="https://citeorchard.com/"><img src="./assets/citeorchard-logo.svg" alt="CiteOrchard — Where evidence takes root." width="690"></a></p>
@@ -159,6 +177,7 @@ Built with **Python, pandas, NumPy and Streamlit**, with nine automated tests, d
 
 | Project | Focus | Code & live app |
 | --- | --- | --- |
+| Football Vision AI | Experimental football player tracking, pitch mapping and movement analytics | [View project](https://github.com/BlessingSK1998/Football-Vision) · [Colab notebook](https://colab.research.google.com/drive/1Zjn79VrBlXo0kFFoqnFpaprqot6oNJmV) |
 | CiteOrchard | Scholarly discovery, source passages, copyable citations and evidence organisation | [Live website](https://citeorchard.com/) · [Founder](https://citeorchard.com/our-story) |
 | EduAccess | Digital education access, participation, gender gaps and transparent international comparisons | [Live app](https://blessing-eduaccess.streamlit.app/) |
 | ResilienceAfrica | HIV/AIDS, population health, economic development and thesis research | [View project](https://github.com/BlessingSK1998/ResilienceAfrica) · [Live report](https://sn8qwviwero3futjtggbwg.streamlit.app/) |
